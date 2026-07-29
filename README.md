@@ -11,7 +11,7 @@ Siti Ain Athiqah Binti Sahrun (297545) · Hana Syakirah Binti Hassan Khairullah 
 **Submitted to:** Ts. Dr. Mohamed Ali B. Saip
 **Submission date:** 19 June 2025
 
-🔗 **Public Dashboard Link:** _[to be added]_
+🔗 **Public Dashboard Link:** https://app.powerbi.com/view?r=eyJrIjoiY2Q2ZDIwYjctMmFmMi00NWQwLWE5YTMtNDdlYTlhZDQwMmRjIiwidCI6ImQ0OTRlMTEzLTUyOGUtNDBhYi05MGQ5LTE2MmRlMmZjYTNmMyIsImMiOjEwfQ%3D%3D
 
 ---
 
